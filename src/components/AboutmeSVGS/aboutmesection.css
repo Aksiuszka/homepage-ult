@@ -1,0 +1,31 @@
+#photo{
+    height: 200px;
+    border-radius: 48%;
+    margin-left:30px;
+    
+}
+@media only screen and (min-width: 480px) {
+    #photo{
+        height:100px;
+    }
+}
+@media only screen and (min-width: 568px) {
+    #photo{
+        height:130px;
+    }
+}
+@media only screen and (min-width: 768px) {
+    #photo{
+        height:160px;
+    }
+}
+@media only screen and (min-width: 1030px) {
+    #photo{
+        height:190px;
+    }
+}
+@media only screen and (min-width: 1466px) {
+    #photo{
+        height:200px;
+    }
+}

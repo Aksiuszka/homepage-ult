@@ -1,0 +1,29 @@
+@media only screen and (min-width: 480px) {
+    #greet{
+        height: 50px;
+        
+        
+    }
+}
+@media only screen and (min-width: 568px) {
+    #greet{
+        height:60px;
+    }
+}
+@media only screen and (min-width: 768px) {
+    #greet{
+        height:70px;
+        
+    }
+}
+@media only screen and (min-width: 1030px) {
+    #greet{
+        height:90px;
+        
+    }
+}
+@media only screen and (min-width: 1466px) {
+    #greet{
+        height:100px;
+    }
+}

@@ -1,0 +1,33 @@
+.smalllogo{
+    height:40px;
+}
+@media only screen and (min-width: 480px) {
+    .smalllogo{
+        height: 30px;
+        margin-left: -90px;
+        
+        
+    }
+}
+@media only screen and (min-width: 568px) {
+    .smalllogo{
+        height:40px;
+    }
+}
+@media only screen and (min-width: 768px) {
+    .smalllogo{
+        height:40px;
+        
+    }
+}
+@media only screen and (min-width: 1030px) {
+    .smalllogo{
+        height:40px;
+        
+    }
+}
+@media only screen and (min-width: 1466px) {
+    .smalllogo{
+        height:40px;
+    }
+}

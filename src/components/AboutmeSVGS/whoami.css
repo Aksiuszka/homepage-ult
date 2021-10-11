@@ -1,0 +1,33 @@
+#whoamI{
+    height:220px;
+    
+}
+@media only screen and (min-width: 480px) {
+    #whoamI{
+        height: 30px;
+        margin-right:-120px;
+        
+    }
+}
+@media only screen and (min-width: 568px) {
+    #whoamI{
+        height:40px;
+    }
+}
+@media only screen and (min-width: 768px) {
+    #whoamI{
+        height:50px;
+        margin-right:-80px;
+    }
+}
+@media only screen and (min-width: 1030px) {
+    #whoamI{
+        height:60px;
+        margin-right:-50px;
+    }
+}
+@media only screen and (min-width: 1466px) {
+    #whoamI{
+        height:70px;
+    }
+}

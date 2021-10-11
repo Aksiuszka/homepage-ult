@@ -1,0 +1,32 @@
+#aksiuszka{
+    height:30%;
+}
+@media only screen and (min-width: 480px) {
+    #aksiuszka{
+        height: 50px;
+        
+        
+    }
+}
+@media only screen and (min-width: 568px) {
+    #aksiuszka{
+        height:70px;
+    }
+}
+@media only screen and (min-width: 768px) {
+    #aksiuszka{
+        height:80px;
+        
+    }
+}
+@media only screen and (min-width: 1030px) {
+    #aksiuszka{
+        height:100px;
+        
+    }
+}
+@media only screen and (min-width: 1466px) {
+    #aksiuszka{
+        height:120px;
+    }
+}
